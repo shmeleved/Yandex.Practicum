@@ -1,3 +1,17 @@
 # Yandex.Practicum
-# [Test](https://github.com/shmeleved/Yandex.Practicum/tree/main/01_Python_and_Data_Science_Fundamentals)
+# [01_Python_and_Data_Science_Fundamentals](https://github.com/shmeleved/Yandex.Practicum/tree/main/01_Python_and_Data_Science_Fundamentals)
+# [02_Data_preprocessing](https://github.com/shmeleved/Yandex.Practicum/tree/main/02_Data_preprocessing)
+# [03_Research_data_analysis](https://github.com/shmeleved/Yandex.Practicum/tree/main/03_Research_data_analysis)
+# [04_Statistical_data_analysis](https://github.com/shmeleved/Yandex.Practicum/tree/main/04_Statistical_data_analysis)
+# [05_Modular_Project_1](https://github.com/shmeleved/Yandex.Practicum/tree/main/05_Modular_Project_1)
+# [06_Introduction_to_Machine_Learning](https://github.com/shmeleved/Yandex.Practicum/tree/main/06_Introduction_to_Machine_Learning)
+# [07_Supervised_Machine_Learning](https://github.com/shmeleved/Yandex.Practicum/tree/main/07_Supervised_Machine_Learning)
+# [08_Machine_Learning_in_Business](https://github.com/shmeleved/Yandex.Practicum/tree/main/08_Machine_Learning_in_Business)
+# [09_Modular_project_2](https://github.com/shmeleved/Yandex.Practicum/tree/main/09_Modular_project_2)
+# [10_Linear_algebra](https://github.com/shmeleved/Yandex.Practicum/tree/main/10_Linear_algebra)
+# [11_Numerical_methods](https://github.com/shmeleved/Yandex.Practicum/tree/main/11_Numerical_methods)
+# [12_Time_series](https://github.com/shmeleved/Yandex.Practicum/tree/main/12_Time_series)
+# [13_Machine_Learning_for_Texts](https://github.com/shmeleved/Yandex.Practicum/tree/main/13_Machine_Learning_for_Texts)
+# [14_Computer_vision:_the_practice_of_training_neural_networks](https://github.com/shmeleved/Yandex.Practicum/tree/main/14_Computer_vision:_the_practice_of_training_neural_networks)
+# [15_Final_Project](https://github.com/shmeleved/Yandex.Practicum/tree/main/15_Final_Project)
 
